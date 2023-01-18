@@ -1,0 +1,10 @@
+body{
+  margin:20px
+}
+form{
+  max-width:400px;
+  margin:0 auto;
+  box-shadow: 0px 0px 12px 1px #0000005;
+  padding:10px;
+      border-radius: 5px;
+}
