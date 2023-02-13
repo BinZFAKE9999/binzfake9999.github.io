@@ -2,6 +2,11 @@
   text-align: center;
   padding: 50px 0;
 }
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+}
 
 .downloads-section h2 {
   font-size: 36px;
