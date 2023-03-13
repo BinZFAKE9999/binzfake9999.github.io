@@ -1,10 +1,12 @@
-*,body{
+*,body {
 background-color: #000;
 }
-h1,h2,h3,h4,h5,h6,p,li{
+h1,h2,h3,h4,h5,h6,p,li {
 color: #fff;
 font-family: Arial, sans-serif;
+text-align: center;
 }
-center{
+center {
+text-align: center;
 text-align: center;
 }
