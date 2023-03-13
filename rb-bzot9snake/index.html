@@ -1,16 +1,24 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head>
-	<meta charset="UTF-8">
-     <title>BZOT9 Snake (Re-build)</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body>
-<div class="center">
-<h1>Soon</h1>
-<p>Server is not ready! The game is scheduled to open at 10pm on March 14, 23 or sooner or later!</p>
-</div>
-</body>
-<script src="script.js"></script>
+  <head>
+    <title>BZOT9 Snake Rebuild</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>BZOT9 Snake Rebuild</h1>
+    <div class="game-container">
+      <canvas id="game-canvas"></canvas>
+      <div class="game-overlay">
+        <h2>Score: <span id="score">0</span></h2>
+        <button id="restart-button">Restart</button>
+        <div class="speed-controls">
+          <label for="speed-range">Speed:</label>
+          <input type="range" id="speed-range" min="1" max="10" value="5">
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
 </html>
