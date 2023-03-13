@@ -55,3 +55,8 @@ h1 {
 .speed-controls input {
   width: 100px;
 }
+button:hover {
+  background-color: #FFA500;
+  color: #FFF;
+  border-color: #FFA500;
+}
