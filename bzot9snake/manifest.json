@@ -1,7 +1,7 @@
 {
   "name": "BZOT9 Snake 3 - By BZOT9 Team",
   "short_name": "BZOT9 Snake 3",
-  "start_url": "/bzot9snake/start.html",
+  "start_url": "start.html",
   "display": "standalone",
   "background_color": "#ffe18e",
   "theme_color": "#ffe18e",
