@@ -1,7 +1,7 @@
 {
   "name": "BZOT9 Snake 3 - By BZOT9 Team", //Tên App
   "short_name": "BZOT9 Snake 3",
-  "start_url": "/start.html",
+  "start_url": "./bzot9snake/start.html",
   "display": "standalone",
   "background_color": "#ffe18e",
   "theme_color": "#ffe18e",
